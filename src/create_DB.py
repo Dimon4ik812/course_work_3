@@ -1,17 +1,13 @@
-import os
-
 import psycopg2
-
 
 from src.config import config
 
 params = config()
 
 
-
 def connect_to_db():
     """Функция для подключения к базе данных."""
-    conn = psycopg2.connect(dbname='postgres', **params)
+    conn = psycopg2.connect(dbname="postgres", **params)
     return conn
 
 
