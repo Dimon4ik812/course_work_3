@@ -38,7 +38,6 @@ flake8 . (все модули)
 ```
 poetry add --group dev pytest
 pytest --cov 
-pytest  
 ```
 
 ## Модули
