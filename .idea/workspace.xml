@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8debba7-fad6-4548-bd3a-bef7f464376d" name="Changes" comment="draft">
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_api_hh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/create_DB.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_DB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/db_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/user_interface.py" afterDir="false" />
+    <list default="true" id="b8debba7-fad6-4548-bd3a-bef7f464376d" name="Changes" comment="course_work done">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723989278625</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="course_work done">
+      <option name="closed" value="true" />
+      <created>1723992917081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723992917081</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +209,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add project" />
     <MESSAGE value="draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="draft" />
+    <MESSAGE value="course_work done" />
+    <option name="LAST_COMMIT_MESSAGE" value="course_work done" />
   </component>
 </project>
